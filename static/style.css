@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square {
+    height: 150px;
+    width: 150px;
+    background-color: #555;
+    margin: 5px;
+}
